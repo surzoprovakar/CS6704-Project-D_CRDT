@@ -1,0 +1,14 @@
+Inc
+3
+Inc
+2
+Dec
+2
+Inc
+1
+Inc
+4
+Dec
+2
+Inc
+Broadcast
